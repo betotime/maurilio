@@ -123,6 +123,6 @@ ul {
   color: aqua;
 }
 h4{
-  color: #f2f2f2;
+  color: hsl(300, 100%, 50%);
   text-align: center;
 }
